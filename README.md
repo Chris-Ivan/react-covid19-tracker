@@ -10,6 +10,6 @@ A simple react COVID19-tracker using [COVID API](https://covid19.mathdro.id/api)
 ### Setup
 
 - install [NodeJS](https://nodejs.org/en/) and [Git](https://git-scm.com/) (if you haven't)
-- `git clone https://github.com/Chris-Ivan/PrivateChatroom_PPAB-UKT` the repository, then `cd` into the directory cloned.
+- `git clone https://github.com/Chris-Ivan/react-covid19-tracker` the repository, then `cd` into the directory cloned.
 - `npm install` to install all the dependencies
 - `npm start` to run the app in the development mode
